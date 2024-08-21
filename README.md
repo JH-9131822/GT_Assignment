@@ -1,6 +1,6 @@
 This is the code base for GT's assignment. Follow the instructions below to deploy and test on your local machine.
 
-Prerequisites
+**Prerequisites**
 - Windows Server (Any version with Python support)
 - Python 3.7+ installed on your Windows server
 

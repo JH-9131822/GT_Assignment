@@ -33,7 +33,7 @@ This is the code base for GT's assignment. Follow the instructions below to depl
 - Open Window's Command Prompt
 - Navigate to the directory where you saved the code
 - Open the "assignment" directory
-- Enter the command: "py main.py" to run the application
+- Enter the command: "py setupdb.py" to run the setup script
 
 **Step 7: Launch the Python Application**
 - Open Window's Command Prompt

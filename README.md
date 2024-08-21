@@ -38,12 +38,12 @@ This is the code base for GT's assignment. Follow the instructions below to depl
 - Navigate to the directory where you saved the code
 - Enter the command: "py main.py" to run the application
 
-**Step 7: Start the API Server (Optional)**
+**Step 8: Start the API Server (Optional)**
 - Open Window's Command Prompt
 - Navigate to the directory where you saved the code
 - Enter the command: "uvicorn api-server:app --host 127.0.0.1"
 
-**Step 8: Start the API Testing Script (Optional)**
+**Step 9: Start the API Testing Script (Optional)**
 - Open Window's Command Prompt
 - Navigate to the directory where you saved the code
 - Enter the command: "py api-test.py"

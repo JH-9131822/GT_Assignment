@@ -1,8 +1,7 @@
 This is the code base for GT's assignment. Follow the instructions below to deploy and test on your local machine.
 
 **Prerequisites**
-- Windows Server (Any version with Python support)
-- Python 3.12 installed on your Windows server
+- Python 3.12 installed
 
 **Step 1: Install Required Modules for Python**
 - Open Window's Command Prompt

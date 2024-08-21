@@ -3,8 +3,6 @@ This is the code base for GT's assignment. Follow the instructions below to depl
 Prerequisites
 - Windows Server (Any version with Python support)
 - Python 3.7+ installed on your Windows server
-- FastAPI and Uvicorn (the ASGI server for serving FastAPI applications)
-- 
 
 **Step 1: Install Required Modules for Python**
 - Open Window's Command Prompt

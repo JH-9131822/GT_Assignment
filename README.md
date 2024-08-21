@@ -24,26 +24,31 @@ This is the code base for GT's assignment. Follow the instructions below to depl
 
 **Step 5: Enter the Database information**
 - Navigate to the directory where you saved the code
-- Edit the file "db.py" inside the "Modules" directory with any text editor
+- Open the "assignment/modules" directory
+- Edit the file "db.py" with any text editor
 - Enter the database information accordingly: Username, password, connection, and database name.
 - Save and close the file
 
 **Step 6: Setup Database and Tables Using the Provided Script**
 - Open Window's Command Prompt
 - Navigate to the directory where you saved the code
+- Open the "assignment" directory
 - Enter the command: "py main.py" to run the application
 
 **Step 7: Launch the Python Application**
 - Open Window's Command Prompt
 - Navigate to the directory where you saved the code
+- Open the "assignment" directory
 - Enter the command: "py main.py" to run the application
 
 **Step 8: Start the API Server (Optional)**
 - Open Window's Command Prompt
 - Navigate to the directory where you saved the code
+- Open the "assignment" directory
 - Enter the command: "uvicorn api-server:app --host 127.0.0.1"
 
 **Step 9: Start the API Testing Script (Optional)**
 - Open Window's Command Prompt
 - Navigate to the directory where you saved the code
+- Open the "assignment" directory
 - Enter the command: "py api-test.py"
